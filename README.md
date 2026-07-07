@@ -236,16 +236,16 @@ Built and deployed a vendor management system in production at Tata Steel.
 
 
 
-## 💻 Coding Profiles
+<!-- ## 💻 Coding Profiles -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- <a href="https://leetcode.com/NumanFaisal"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 <a href="https://www.geeksforgeeks.org/user/numanfainykm"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/numanfaisal980"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> -->
 <!-- <a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> -->
 
-</div>
+<!-- </div> -->
 
 ---
 
