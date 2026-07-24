@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Numan%20Faisal&fontSize=52&fontColor=E0C3FC&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
+
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Building+Production+AI+Systems;GPT-4o+%7C+Claude+API+%7C+Voice+Agents;Full+Stack+Engineer+%40+Creative+Homme;Founder+%40+LexAI+%E2%80%94+Legal-Tech+for+Bharat" alt="Typing SVG" />
 </a>
@@ -47,7 +49,7 @@ I'm a **Full-Stack & AI Engineer** with 12+ months of production experience ship
 
 I specialize in bridging **LLM engineering** with **production-grade full stack architecture** — building systems with GPT-4o function calling, Claude API, real-time SSE streaming, and Redis-backed state management that survive real-world edge cases, not just demos.
 
-Currently building **LexAI**, a WhatsApp-first AI legal assistant reducing hallucinated legal citations by 95% through a custom verification pipeline against Indian Kanoon.
+Currently building **LexAI**, a WhatsApp-first AI legal assistant reducing hallucinated legal citations by 90% through a custom verification pipeline against Indian Kanoon.
 
 <br/>
 
