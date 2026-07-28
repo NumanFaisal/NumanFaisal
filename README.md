@@ -4,6 +4,7 @@
 
 
 
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Building+Production+AI+Systems;GPT-4o+%7C+Claude+API+%7C+Voice+Agents;Full+Stack+Engineer+%40+Creative+Homme;Founder+%40+LexAI+%E2%80%94+Legal-Tech+for+Bharat" alt="Typing SVG" />
 </a>
@@ -329,7 +330,7 @@ open_to:
 
 </div>
 
----
+------------
 
 <div align="center">
 
