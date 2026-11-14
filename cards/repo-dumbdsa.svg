@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="132" viewBox="0 0 900 132" role="img" aria-label="DumbDSA: A straightforward project for learning and practising data structures and algorithms.">
+<title>DumbDSA — Numan Faisal</title>
+<desc>A straightforward project for learning and practising data structures and algorithms.</desc>
+<rect width="900" height="132" rx="13" fill="#f3f3ef"/>
+<rect x="1" y="1" width="898" height="130" rx="12" fill="none" stroke="#dcdcd4"/>
+<rect x="25" y="29" width="5" height="74" rx="2.5" fill="#ffc21a"/>
+<text x="51" y="31" fill="#77776f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="1.6">FEATURED PROJECT  /  03</text>
+<text x="50" y="62" fill="#111111" font-family="Georgia, 'Times New Roman', serif" font-size="27">DumbDSA</text>
+<text x="50" y="86" fill="#55554f" font-family="Arial, Helvetica, sans-serif" font-size="13">A straightforward project for learning and practising data structures and algorithms.</text>
+<line x1="50" y1="105" x2="850" y2="105" stroke="#dcdcd4"/>
+<text x="50" y="121" fill="#77776f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">Project</text>
+<text x="850" y="121" text-anchor="end" fill="#77776f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">VIEW REPOSITORY  ↗</text>
+</svg>
