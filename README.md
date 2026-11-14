@@ -13,7 +13,7 @@
 ## What I'm building
 
 <div align="center">
-<a href="https://github.com/NumanFaisal/LexAI"><img src="cards/repo-lexai.svg" width="100%" alt="LexAI project card"></a>
+<a href="https://github.com/NumanFaisal/lexai-frontend"><img src="cards/repo-lexai.svg" width="100%" alt="LexAI project card"></a>
 <a href="https://github.com/NumanFaisal/ShilpSetu"><img src="cards/repo-shilpsetu.svg" width="100%" alt="ShilpSetu project card"></a>
 <a href="https://github.com/NumanFaisal/DumbDSA"><img src="cards/repo-dumbdsa.svg" width="100%" alt="DumbDSA project card"></a>
 </div>
