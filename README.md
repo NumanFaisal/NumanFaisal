@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cards/hero.svg" width="100%" alt="Numan Faisal — Full-stack and AI engineer">
+<img src="cards/numan-github-hero.svg" width="100%" alt="Numan Faisal — Full-stack and AI engineer">
 
 <img src="cards/activity.svg" width="100%" alt="GitHub contribution activity and statistics">
 
